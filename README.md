@@ -1,4 +1,4 @@
-# purple_qurban_project
+# qurban_app
 
 A new Flutter project.
 
